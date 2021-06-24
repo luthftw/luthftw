@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+My name is Luthfi, a fresh graduate bachelor from environmental engineering program.
+Recently, I graduated from Rakamin Academy from Data Science Program. I am new to this journey. Pleased to see you come to my page.
+
+- 🔭 I’m currently working on adding new portfolios to my page
+- 🌱 I’m currently learning to improve my proficiency in clustering!
+
+If you want to collaborate with me in my journey, to be a mentor, or a discussion friend, please do contact me here, or at my linkedin:
+- https://www.linkedin.com/in/luthftw/
 
 <!--
 **luthftw/luthftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
